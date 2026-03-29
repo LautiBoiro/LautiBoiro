@@ -17,6 +17,7 @@
 - 🚀 Goal: become a **Full-Stack Developer**
 - 📍 Based in **Avellaneda, Buenos Aires, Argentina**
 - 🌐 Portfolio: [lautaroboiro.vercel.app](https://lautaroboiro.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/lautaroboiro](https://linkedin.com/in/lautaroboiro)
 
 <br clear="right"/>
 
