@@ -25,6 +25,8 @@
 
 ## 🛠️ Tech Stack
 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlveDNidDQ5MDdrZng5ZWc5dGx0cXF3ZGU4czg3cTZzNnA1ZHVxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NNqePFmEzhO6s/giphy.gif" width="170"/>
+
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,6 +44,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
 
 ---
 
